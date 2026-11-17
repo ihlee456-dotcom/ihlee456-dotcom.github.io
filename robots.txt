@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /chungsimun/admin.html
+
+Sitemap: https://ihlee456-dotcom.github.io/chungsimun/sitemap.xml
